@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente aprendiendo [**Ruby on Rails**](https://rubyonrails.org/)
 
-- 👯 Me interesa colaborar en **frontend**
+- 👯 Me interesa colaborar como **frontend**
 
 - 🤝 Colaborador en GDG Rosario [**Google Developers Rosario**](https://gdg.community.dev/gdg-rosario/)
 
