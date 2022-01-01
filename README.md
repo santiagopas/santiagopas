@@ -39,7 +39,7 @@
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
     <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"  width="40" height="40"/> </a> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagopas&show_icons=true&locale=en&layout=compact" alt="santiagopas" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagopas&show_icons=true&locale=en&layout=compact" alt="santiagopas" /></p>
 <h3 align="center">💌 Hablemos!:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/santiago-pasciullo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-pasciullo" height="30" width="40" /></a>
