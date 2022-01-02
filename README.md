@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente trabajando como **freelance**
 
-- 🌱 Actualmente aprendiendo [**Angular**](https://angular.io/)
+- 🌱 Actualmente estudiando [**Certified Tech Developer**](https://www.digitalhouse.com/ar/acciones/certified-tech-developer)
 
 - 👯 Me interesa colaborar como **frontend**
 
