@@ -1,19 +1,22 @@
-<h1 align="center">Hola! 👋, soy Santiago Pasciullo</h1>
-<h3 align="center">Frontend Developer que le encanta implementar diseños que inspiran y atraen a las personas ❤.</h3>
+<h1 align="center">Hola!  👋, soy Santiago Pasciullo</h1>
+<h2 align="center">Frontend Developer que le encanta implementar diseños que inspiran y atraen a las personas ❤.</h2>
 
 - 🔭 Actualmente trabajando como **freelance**
 
 - 🌱 Actualmente estudiando [**Certified Tech Developer**](https://www.digitalhouse.com/ar/acciones/certified-tech-developer)
 
-- 🏋️ Especializándome en **frontend** con **Rectjs** (https://es.reactjs.org/) y **React Native**(https://reactnative.dev/)
+- 🏋️ Especializándome en **frontend** con [**Rectjs**](https://es.reactjs.org/) y [**React Native**](https://reactnative.dev/)
 
 - 🤝 Colaborador en GDG Rosario [**Google Developers Rosario**](https://gdg.community.dev/gdg-rosario/)
 
 - 👨‍💻 Mi [**Portafolio**](https://santiago-pasciullo.netlify.app/splash)
 
-- 💬 Consúltame por **Diseño frontend UX/UI**
+- 💬 Consúltame por **Diseño frontend**
+
+- 🎸 Mis pasatiempos son tocar la guitarra y micro ptoyectos con vanilla css
 
 - 📫 Contacto **santiagopasciullo@gmail.com**
+
 
 <h3 align="left">🛠Lenguajes y herramientas:</h3>
 <p align="left"> 
@@ -40,11 +43,9 @@
     <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"  width="40" height="40"/> </a> 
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagopas&show_icons=true&locale=en&layout=compact" alt="santiagopas" /></p>
-<h3 align="center">💌 Hablemos!:</h3>
+<h4 align="center" font-size: 2rem >💌 Hablemos!:</h4>
 <p align="center">
 <a href="https://linkedin.com/in/santiago-pasciullo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-pasciullo" height="30" width="40" /></a>
 <a href="https://instagram.com/santiago.pasciullo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santiago.pasciullo" height="30" width="40" /></a>
 <a href="https://discord.gg/santiagop#8045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="santiagop#8045" height="30" width="40" /></a>
 </p>
-
-
