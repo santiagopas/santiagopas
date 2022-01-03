@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estudiando [**Certified Tech Developer**](https://www.digitalhouse.com/ar/acciones/certified-tech-developer)
 
-- 👯 Me interesa el **frontend** con **Rectjs**
+- 🏋️ Especializándome en **frontend** con **Rectjs** (https://es.reactjs.org/) y **React Native**(https://reactnative.dev/)
 
 - 🤝 Colaborador en GDG Rosario [**Google Developers Rosario**](https://gdg.community.dev/gdg-rosario/)
 
