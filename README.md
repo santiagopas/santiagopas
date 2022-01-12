@@ -1,4 +1,4 @@
-<h1 align="center">Hola!  👋, soy Santiago Pasciullo</h1>
+<h1 align="center">Hola!  👋, soy Santiago</h1>
 <h2 align="center">Frontend Developer que le encanta implementar diseños que inspiran y atraen a las personas ❤.</h2>
 
 - 🔭 Actualmente trabajando como **freelance**
