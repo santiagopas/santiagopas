@@ -13,7 +13,7 @@
 
 - 💬 Consúltame por **Diseño frontend**
 
-- 🎸 Mis pasatiempos son tocar la guitarra, el anime y micro ptoyectos con vanilla css
+- 🎸 Mis pasatiempos son tocar la guitarra, el anime y micro proyectos con vanilla css
 
 - 📫 Contacto **santiagopasciullo@gmail.com**
 
