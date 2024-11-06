@@ -1,9 +1,9 @@
 <h1 align="center">Hola!  👋, soy Santiago</h1>
 <h2 align="center">Frontend Developer que le encanta implementar diseños que inspiran y atraen a las personas ❤.</h2>
 
-- 🔭 Actualmente trabajando como **freelance**
+- 🔭 Actualmente trabajando como **Frontend** en Tel;ecentro Argentina
 
-- 🌱 Actualmente estudiando [**Certified Tech Developer**](https://www.digitalhouse.com/ar/acciones/certified-tech-developer)
+<!-- - 🌱 Actualmente estudiando [**Certified Tech Developer**](https://www.digitalhouse.com/ar/acciones/certified-tech-developer) -->
 
 - 🏋️ Especializándome en **frontend** con [**Rectjs**](https://es.reactjs.org/) y [**React Native**](https://reactnative.dev/)
 
