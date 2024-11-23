@@ -1,7 +1,7 @@
 <h1 align="center">Hola!  👋, soy Santiago</h1>
 <h2 align="center">Frontend Developer que le encanta implementar diseños que inspiran y atraen a las personas ❤.</h2>
 
-- 🔭 Actualmente trabajando como **Frontend** en Telecentro Argentina
+- 🔭 Actualmente trabajando como **Frontend** en [Telecentro](https://telecentro.com.ar/)
 
 <!-- - 🌱 Actualmente estudiando [**Certified Tech Developer**](https://www.digitalhouse.com/ar/acciones/certified-tech-developer) -->
 
