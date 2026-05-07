@@ -18,7 +18,13 @@
 
 ---
 
-### 🛠️ Lenguajes y Herramientas
+<br/>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="500" src="https://streak-stats.demolab.com?user=santiagopas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 <br/>
 
